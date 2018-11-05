@@ -1,1 +1,5 @@
 select current line
+
+Auto format code            Ctrl + Shift + I
+
+Add header file             Ctrl + Alt + I
