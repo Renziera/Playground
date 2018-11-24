@@ -1,3 +1,0 @@
-VSCode Icon doesn't show correctly on Ubuntu,
-use this one line to solve it
-sudo sed -i "s/Icon=code/Icon=vscode/g" /usr/share/applications/code.desktop
